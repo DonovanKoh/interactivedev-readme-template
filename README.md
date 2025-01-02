@@ -35,6 +35,15 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+
+## Assistive AI
+
+In this section you should document the process of using AI tools eg, ChatGPT, Gemini etc to help you with the development of features/functionalities of your web application. (Failure to document your use of AI tools will result in loss of marks.) Example below:
+
+1. Spotify API:
+ChatGPT was used to help with the implementation of the Spotify API (include screenshots of generated AI codes.)
+
+
 ![sample img](readme_img/sample.JPG)
 
 ## Testing
