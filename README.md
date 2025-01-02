@@ -35,7 +35,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
-![sample img](readme_img/sample.jpg)
+![sample img](readme_img/sample.JPG)
 
 ## Testing
 
